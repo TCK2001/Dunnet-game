@@ -1,6 +1,6 @@
 # Dunnet-game 
 
-## In Read game The output will be
+## In Real game The output will be
 
 ### Let's play some of the actual game, to remember how rooms display and how the get command works:   
 +   % emacs -batch -l dunnet
