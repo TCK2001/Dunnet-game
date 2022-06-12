@@ -1,6 +1,5 @@
 # Dunnet-game 
-
-## In Real game the output will be
+Implement the Dunnet game by using UNIX
 
 ### Let's play some of the actual game, to remember how rooms display and how the get command works:   
 +   % emacs -batch -l dunnet
